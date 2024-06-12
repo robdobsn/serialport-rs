@@ -1,6 +1,6 @@
 [package]
-name = "serialport"
-version = "4.3.0-fix-stop-bits"
+name = "serialport-fix-stop-bits"
+version = "4.3.0"
 authors = [
     "Bryant Mairs <bryant@mai.rs>",
     "Jesse Braham <jesse@beta7.io>",
